@@ -11,11 +11,11 @@
   -o-background-size: cover;
 }
 .serif,
-body,
 .intro-header .post-heading .meta {
-  font-family: 'Lato', 'Noto Sans KR', sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 .sans-serif,
+body,
 h1,
 h2,
 h3,
@@ -29,7 +29,7 @@ h6,
 .btn,
 .pager li > a,
 .pager li > span {
-  font-family: 'Lato', 'Noto Sans KR', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Noto Sans KR', sans-serif;
 }
 body {
   font-size: 20px;

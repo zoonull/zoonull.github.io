@@ -160,7 +160,7 @@ hr.small {
 .intro-header {
   background-color: #808080;
   background-position: center center;
-  background-attachment: scroll;
+  background-attachment: fixed;
   margin-bottom: 50px;
 }
 .intro-header .site-heading,
